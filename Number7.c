@@ -1,5 +1,4 @@
-/* This code has a compile-time error, and at
-** least one run-time error. */
+// This code has a compile-time error, and at least one run-time error. 
 #include <stdio.h>
 #include <math.h>
 main(int argc,char *argv[])  //compile-time error , the main function should return int not void.
