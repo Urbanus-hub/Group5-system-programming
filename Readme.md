@@ -14,3 +14,5 @@
 - Cynthia Njoki
 - Wairia Gracejane
 - Rodgers Munene
+- Victor Wanyeki
+  
