@@ -13,3 +13,4 @@
 - Faith Irungu
 - Cynthia Njoki
 - Wairia Gracejane
+- Rodgers Munene
