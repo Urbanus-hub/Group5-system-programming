@@ -60,3 +60,10 @@ int main(int argc, char *argv[]) {
 
     return 0;
 }*/
+
+/*Summary:
+The corrected code determines if numbers entered by the user are prime or not.
+- Loop: Continues to ask for numbers until 0 is entered.
+- Divisor Check: Efficiently checks for divisors up to the square root of the number to determine if it is prime.
+- Output: Prints if the number is prime or not based on the divisor check.
+*/
