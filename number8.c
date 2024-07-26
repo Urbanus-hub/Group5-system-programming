@@ -13,7 +13,7 @@ int main() {
     int lower = sqrt_num * sqrt_num;
     int upper = (sqrt_num + 1) * (sqrt_num + 1);
     
-    // Find the closest integer with a whole number square root
+    // Find the closest integer with a whole number squareroot
     int closest_integer;
     if (abs(num - lower) <= abs(num - upper)) {
         closest_integer = sqrt_num;
