@@ -11,4 +11,5 @@
 - josephine kyalo
 - risper ochieng
 - Faith Irungu
-- 
+- Cynthia Njoki
+- Wairia Gracejane
