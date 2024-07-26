@@ -26,3 +26,8 @@ int main() {
 
     return 0;
 }
+
+/*Summary
+The code calculates and prints the perfect square that is closest to the provided positive integer.
+It compares two perfect squares (one below and one above the integer) and selects the one closest to the input.
+*/
