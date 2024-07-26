@@ -131,7 +131,7 @@ void updateContact() {
     printf("Contact not found.\n");
 }
 
-// Function to display all contacts
+// Create Function to display all contacts
 void displayContacts() {
     if (numContacts == 0) {
         printf("No contacts to display.\n");
